@@ -1,4 +1,4 @@
-# 📚 BITÁCORA DEL PROYECTO GRUPAL ATLAS – EQUIPO 5
+# 📚 PROYECTO GRUPAL ATLAS – EQUIPO 5
 
 # 🔎 Observaciones Generales
 
@@ -32,11 +32,13 @@ Con los datos aportados, nos falta información imprescindible para comenzar con
 
 ### ➡ Categorías:
 
-<img width="600" height="371" alt="image" src="https://github.com/user-attachments/assets/d9bf68e4-9d38-47ba-8f19-6f04a7724c1f" />
 
 Calculamos el % que respresenta cada categoría y observamos que:
 * **Ficción (39%):**, es la categoría mas prestada. 
 * **Poesía (1%):**, es la categoría menos prestada. 
+
+<img width="600" height="371" alt="PRESTAMOS POR CATEGORIA" src="https://github.com/user-attachments/assets/8235f2eb-1a66-4b57-b324-8d256a40b7e6" />
+
 
 Observando estos datos nos preguntamos:
 
@@ -52,15 +54,21 @@ Observamos que se registran 3 idiomas. Castellano, Inglés y Catalán.
 * **Catalán (11%):** Segundo idioma más representativo. La biblioteca está en Cataluña. Este idioma no se oferta en todas las categorías.
 * **Inglés (9%):** Solo registrado para dos categorías, principalmente ficicón. Podemos entender que este idioma no se oferta en todas las categorías.
 
+
+<img width="600" height="371" alt="IDIOMAS Y CATEGORIAS" src="https://github.com/user-attachments/assets/93fbafa1-dc2d-4b4e-9a20-5c9307b95df6" />
+
+
+
 Teniendo en cuenta el registro 0 de prestamos en catalán e inglés, ¿existen libros de esas categorías en la biblioteca? Si no hay ¿interesaría probar a introducirlo en las categorías mas prestadas en castellano como Comic?
 
 
 ### ➡ Calendario-Horarios:
 
+
 Intetamos encontrar un patrón lógico de dias de apertura, que nos desvele el horario de la biblioteca, pero no es muy concluyente.
 No hay un patrón fijo, ni por trimestres, ni por semestres. Los unicos patrones encontrados son:
 
-<img width="600" height="371" alt="image" src="https://github.com/user-attachments/assets/8edafb92-a2c0-427a-92f1-5e51ed03f1e5" />
+<img width="600" height="371" alt="MESES POR DÍAS" src="https://github.com/user-attachments/assets/116faadb-1337-42cc-8f0d-0af693a05e8d" />
 
 * La biblioteca abre todos los Martes y Domingos a lo largo del año.
 * De Enero a Mayo abre todos los días de la semana.
@@ -73,12 +81,13 @@ No tenemos un patrón de horarios de apertura, por lo tanto, ¿cuántos Martes y
 
 Hay un cambio de horario a partir de verano. ¿En verano tiene un horario especial?¿porque a partir de verano los horarios de apertura son menores con respecto a Enero-Mayo? comparandolo con el patrón estacional, coinciden que los prestamos de invierno y primavera (Enero-Mayo) son superiores al resto de meses, provablemente por mayor días de apertura. Por lo tanto podemos sacar en conclusión que menos días de apertura, hay menos préstamos.
 
-<img width="600" height="371" alt="image" src="https://github.com/user-attachments/assets/de4a4d4e-90b5-40ca-af49-51dbf9093460" />
+<img width="600" height="371" alt="PATRÓN ESTACIONAL" src="https://github.com/user-attachments/assets/068b24cd-48e7-48e3-bd92-419234d49321" />
 
 
 ### ➡ Horarios:
 
-<img width="600" height="371" alt="image" src="https://github.com/user-attachments/assets/085a8614-dc20-441a-b537-7ccbc6194a77" />
+<img width="600" height="371" alt="FRANJA HORARIA POR MESES" src="https://github.com/user-attachments/assets/0e730a9b-cbab-41de-8f71-771aa475034a" />
+
 
 Tendencia clara hacia la **tarde** en todos los meses. Lo que nos puede indicar que el usuario principal es joven o familiar.
 
@@ -103,7 +112,7 @@ No hay datos de stock por categorías e idiomas que nos puedan aportar mas conte
 ---
 
 
-# 📖 **Recursos**
+## 📖 **Recursos**
 
 https://docs.google.com/spreadsheets/d/1mfcCf_hN9Hm_4hM69Fcu6w0PcZ9IwsRWL5iJugFbwQw/edit?usp=sharing
 
