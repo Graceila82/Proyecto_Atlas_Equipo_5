@@ -24,8 +24,8 @@ Los datos proporconados nos indican fechas, categorías, meses, horarios, plazos
 
 El dataset registra **un único préstamo por día**. Hay 261 registros en total, por lo que este dato nos proporciona las siguientes conclusiones:
 
-    * 104 días sin registro, ¿Cuál es el motivo de la falta de dato? ¿Días de no apertura? ¿Días de apertura pero sin préstamos? ¿festivos?
-    * ¿Por que hay solo un registro por día? no se entregan, devuelven, renuevan más libros ese día?
+* 104 días sin registro, ¿Cuál es el motivo de la falta de dato? ¿Días de no apertura? ¿Días de apertura pero sin préstamos? ¿festivos?
+* ¿Por que hay solo un registro por día? no se entregan, devuelven, renuevan más libros ese día?
 
 Con los datos aportados, nos falta información imprescindible para comenzar con una valoración efectiva.
 
@@ -37,13 +37,14 @@ Calculamos el % que respresenta cada categoría y observamos que:
 * **Poesía (1%):**, es la categoría menos prestada. 
 
 Observando estos datos nos preguntamos:
-    * ¿Cuántos libros hay de cada categoría en la biblioteca?
-    * El % de préstamo que obtenemos pordíra indicarnos que Ficción es el caballo ganardor de la biblioteca, pero si lo commparamos con la reprención total de libros de ficción, este dato seguiría siendo positivo? ¿Y poesía? ¿seguiría siendo el patito feo?
+
+* ¿Cuántos libros hay de cada categoría en la biblioteca?
+* El % de préstamo que obtenemos pordíra indicarnos que Ficción es el caballo ganardor de la biblioteca, pero si lo commparamos con la reprención total de libros de ficción, este dato seguiría siendo positivo? ¿Y poesía? ¿seguiría siendo el patito feo?
 
 
 ### ➡ Idioma:
 
-Observamos que se registran 3 idiomas. Castellano, Inglés y Catalán
+Observamos que se registran 3 idiomas. Castellano, Inglés y Catalán.
 
 * **Castellano (80%):** Idioma predominante en todas las categorías. En conclusión podemos decir que la biblioteca contiene libros mayoritariamente en Castellano.
 * **Catalán (11%):** Segundo idioma más representativo. La biblioteca está en Cataluña. Este idioma no se oferta en todas las categorías.
@@ -54,12 +55,13 @@ Teniendo en cuenta el registro 0 de prestamos en catalán e inglés, ¿existen l
 
 ### ➡ Calendario-Horarios:
 
-Intetamos encontrar un patrón lógico de dias de apertura, que nos desvele el horario de la biblioteca, pero no es muy concluyente. No hay un patrón fijo, ni por trimestres, ni por semestres. Los unicos patrones encontrados son:
+Intetamos encontrar un patrón lógico de dias de apertura, que nos desvele el horario de la biblioteca, pero no es muy concluyente.
+No hay un patrón fijo, ni por trimestres, ni por semestres. Los unicos patrones encontrados son:
 
-    * La biblioteca abre todos los Martes y Domingos a lo largo del año.
-    * De Enero a Mayo abre todos los días de la semana.
-    * Julio y Agosto abren los Martes, Jueves, y Domingo.
-    * El resto de meses abre Martes, Miércoles, Viernes y Domingos.
+* La biblioteca abre todos los Martes y Domingos a lo largo del año.
+* De Enero a Mayo abre todos los días de la semana.
+* Julio y Agosto abren los Martes, Jueves, y Domingo.
+* El resto de meses abre Martes, Miércoles, Viernes y Domingos.
 
 
 En los datos podemos observar que al abrir siempre los Martes y Jueves, el % de prestamos de esos días es el más elevado, seguido de los Miércoles y Viernes, por ultimo y con menos entregas los Jueves, Lunes y Sabado.
@@ -84,7 +86,7 @@ No hay datos de stock por categorías e idiomas que nos puedan aportar mas conte
 
 ---
 
-## ❓ 4. Preguntas 
+## ❓ 4. Preguntas.
 
 * ¿Existen préstamos digitales?
 * ¿Cuál es el periodo máximo de préstamo permitido? ¿Varía en función de la categoría?
