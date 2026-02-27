@@ -115,7 +115,7 @@ No hay datos de stock por categorías e idiomas que nos puedan aportar mas conte
 ## 📖 **Recursos**
 
 https://docs.google.com/spreadsheets/d/1mfcCf_hN9Hm_4hM69Fcu6w0PcZ9IwsRWL5iJugFbwQw/edit?usp=sharing
-
+https://docs.google.com/spreadsheets/d/1gV-55rOgNQYgT7u4lgXKWIWf1prytUqzY3xrk8pNmSI/edit?usp=sharing
 
 # Proyecto_Atlas_Equipo_5
 Repositorio Proyecto Grupal Atlas, Equipo 5
